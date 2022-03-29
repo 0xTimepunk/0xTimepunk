@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on **a new web3 game project aimed to bring the fun elements of traditional games in the unique GameFi setting**
 
-- 🌱 I’m currently learning **how to build web3 games and the most interesting libraries**
-
 - 📦 Worked in the past as [a lead smart contracts engineer for Spectral Finance](http://spectral.finance)
 
 - 🤝 I’m looking for help with **GameFi**
