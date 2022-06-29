@@ -1,12 +1,10 @@
 <h1 align="center">Welcome!</h1>
 
-- 🔭 I’m currently working on **a new web3 game project aimed to bring the fun elements of traditional games in the unique GameFi setting**
+- 🔭 I’m currently working on **a new game project aimed to bring the fun elements of traditional games in the unique GameFi setting**
 
 - 📦 Worked in the past as [a lead smart contracts engineer for Spectral Finance](http://spectral.finance)
 
-- 🤝 I’m looking for help with **GameFi**
-
-- 💬 Ask me about **react, hardhat, solidity, typescript**
+- 💬 Ask me about **Mothora, react, hardhat, solidity, typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
