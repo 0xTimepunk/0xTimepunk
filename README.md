@@ -1,10 +1,10 @@
 <h1 align="center">Welcome!</h1>
 
-- 🔭 I’m currently working on **a new game project aimed to bring the fun elements of traditional games in the unique GameFi setting**
+- 🔭 I’m currently working on [Mothora](http://mothora.xyz), **a new game project aimed to bring the fun elements of traditional games in the unique GameFi setting**
 
 - 📦 Worked in the past as [a lead smart contracts engineer for Spectral Finance](http://spectral.finance)
 
-- 💬 Ask me about **Mothora, react, hardhat, solidity, typescript**
+- 💬 Ask me about **Mothora, react, hardhat, solidity, smart contract development, node.js backend development, next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
