@@ -1,6 +1,6 @@
 <h1 align="center">Welcome!</h1>
 
-- 🔭 I’m currently working as a Senior Solidity Engineer in [Mothora](http://mothora.xyz), **a new game project aimed to bring the fun elements of traditional games in the unique GameFi setting**
+- 🔭 I’m currently working on my leisure time as a Senior Solidity Engineer in [Mothora](http://mothora.xyz), **a new game project aimed to bring the fun elements of traditional games in the unique GameFi setting**
 
 - 📦 Worked in the past as [a lead smart contracts engineer for Spectral Finance](http://spectral.finance)
 
