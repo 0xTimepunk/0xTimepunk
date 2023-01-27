@@ -1,8 +1,10 @@
 <h1 align="center">Welcome!</h1>
 
-- 🔭 I’m currently working on my leisure time as a Senior Solidity Engineer in [Mothora](http://mothora.xyz), **a new game project aimed to bring the fun elements of traditional games in the unique GameFi setting**
+- 🏹 I'm currently the Head of Protocol Engineering at [Superform](https://superform.xyz)
 
-- 📦 Worked in the past as [a lead smart contracts engineer for Spectral Finance](http://spectral.finance)
+- 🔭 I work on my leisure time as a Senior Solidity Engineer in [Mothora](https://mothora.xyz)
+
+- 📦 Worked in the past as [a lead smart contracts engineer for Spectral Finance](httsp://spectral.finance)
 
 - 💬 My focus area for the past few years has been Smart Contracts development using **Solidity, Hardhat, Foundry and Ethers.js**, but I'm also skilled in full-stack web3 development with **Typescript, React, GraphQL (Subgraphs & Prisma) and Next.js**. 
 
