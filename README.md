@@ -6,7 +6,7 @@
 
 - 📦 Worked in the past as a Lead Smart Contracts Engineer for [Spectral Finance](https://spectral.finance)
 
-- 💬 My focus area for the past few years has been Smart Contracts development using **Solidity, Hardhat, Foundry and Ethers.js**, but I'm also skilled in full-stack web3 development with **Typescript, React, GraphQL (Subgraphs & Prisma) and Next.js**. 
+- 💬 My focus area for the past few years has been Smart Contracts development using **Foundry**, having 5 years of experience with Solidity. I'm also skilled in full-stack web3 development with **Typescript, React, GraphQL (Subgraphs & Prisma), Ethers.js and Next.js**. 
 
 
 <h3 align="left">Connect with me:</h3>
