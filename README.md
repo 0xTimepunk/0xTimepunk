@@ -1,11 +1,5 @@
 <h1 align="center">Welcome!</h1>
 
-- 🏹 I'm currently the Head of Protocol Engineering at [Superform](https://superform.xyz)
-
-- 🔭 I work on my leisure time as an Advisor and Senior Solidity Engineer in [Mothora](https://mothora.xyz)
-
-- 📦 Worked in the past as a Lead Smart Contracts Engineer for [Spectral Finance](https://spectral.finance)
-
 - 💬 My focus area for the past few years has been Smart Contracts development using **Foundry**, having 5 years of experience with Solidity. I'm also skilled in full-stack web3 development with **Typescript, React, GraphQL (Subgraphs & Prisma), Ethers.js and Next.js**. 
 
 
