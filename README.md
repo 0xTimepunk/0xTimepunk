@@ -1,20 +1,11 @@
 <h1 align="center">Welcome!</h1>
 
-💬 My focus area for the past few years has been Smart Contracts development using **Foundry**, having 5 years of experience with Solidity. I'm also skilled in full-stack web3 development with **Typescript, React, GraphQL (Subgraphs & Prisma), Ethers.js and Next.js**. 
+💬 I'm the Head of Protocol Engineering at <a href="https://superform.xyz">Superform</a>. Ask me any questions about the protocol or check out our public repos below. 
+
+My focus area for the past few years has been leading high performing solidity development teams while taking the most advanced smart contracts development, testing and auditing tasks. I am heavily focused in using **Foundry** as my day to day frame work, and have 5 years of experience with Solidity development. I'm also skilled in full-stack web3 development with **Typescript, React, GraphQL (Subgraphs & Prisma), Ethers.js and Next.js**. 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me !</h3>
 <p align="left">
 <a href="https://twitter.com/0xtimepunk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xtimepunk" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://book.getfoundry.sh" > <img width ='32px' src ='https://avatars.githubusercontent.com/u/99892494?s=200&v=4' /> </a>
-  <a href= https://hardhat.org > <img width ='32px' src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj4GcOrXLeO9nnIV7OMu0BB17J46L3Okm1-w&usqp=CAU' /> </a>
-  <a href="https://reactjs.org"/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://www.javascript.com"/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xtimepunk&theme=dark" alt="0xtimepunk" /></p>
