@@ -1,11 +1,24 @@
-<h1 align="center">Welcome!</h1>
+<h1 align="center">Welcome to My GitHub Profile!</h1>
 
-💬 I'm the Head of Protocol Engineering at <a href="https://superform.xyz">Superform</a>. Ask me any questions about the protocol or check out our public repos below. 
+<p align="center">
+💡 Head of Core Engineering at <a href="https://superform.xyz" target="_blank">Superform</a> | Solidity Expert | Foundry Enthusiast
+</p>
 
-My focus area for the past few years has been leading high performing solidity development teams while taking the most advanced smart contracts development, testing and auditing tasks. I am heavily focused in using **Foundry** as my day to day framework, and have 6 years of experience with Solidity development. I'm also skilled in full-stack web3 development with **Typescript, Python, React, GraphQL (Subgraphs & Prisma), Ethers.js and Next.js**. 
+<hr />
 
+<h3>👨‍💻 About Me</h3>
+<ul>
+  <li>🚀 Leading high-performing protocol development teams to deliver scalable, secure, and innovative solutions.</li>
+  <li>📈 Successfully managed cross-functional teams, achieving significant performance improvements and launching impactful decentralized applications.</li>
+  <li>⚙️ Passionate about using <strong>Foundry</strong> to build cutting-edge protocols with 7 years of <strong>Solidity</strong> development experience.</li>
+  <li>🌟 Committed to fostering a culture of creativity, accountability, and continuous learning within engineering teams.</li>
+</ul>
 
-<h3 align="left">Connect with me !</h3>
+<hr />
+
+<h3>🔗 Let's Connect!</h3>
 <p align="left">
-<a href="https://twitter.com/0xtimepunk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xtimepunk" height="30" width="40" /></a>
+  <a href="https://twitter.com/0xtimepunk" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter - 0xtimepunk" height="30" width="40" />
+  </a>
 </p>
