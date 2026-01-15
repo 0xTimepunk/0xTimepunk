@@ -31,14 +31,14 @@
 
   <h3>How I Work</h3>
   <p>
-    Hands-on technical leader. Equally effective architecting systems or scaling teams - ground zero to production.
+    Hands-on technical leader. Equally effective architecting systems or scaling teams—ground zero to production.
   </p>
 
   <hr />
 
   <h3>Looking For</h3>
   <p>
-    High-impact roles where I can ship. Leading eng or going deep on protocol — I care about the problem and the people.
+    High-impact roles where I can ship. Protocol engineering or leading eng—I care about the problem and the people.
   </p>
 
   <hr />
