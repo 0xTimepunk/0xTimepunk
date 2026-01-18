@@ -31,10 +31,3 @@
 </ul>
 
 <hr />
-
-<h3>Looking For</h3>
-<p>
-    High-impact roles where I can ship.
-</p>
-
-<hr />
