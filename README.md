@@ -14,8 +14,7 @@
 <ul>
     <li>Co-author of <a href="https://eips.ethereum.org/EIPS/eip-7540" target="_blank">ERC-7540</a> - async vault
         standard powering <strong>$1.6B+ TVL</strong> (Centrifuge, Superform)</li>
-    <li>Head of Engineering + primary protocol architect — personally authored SuperVaults ($184M peak TVL) while coordinating 7 engineers</li>
-    <li>Built the org while building the product: hiring processes, pod structures, AI workflows</li>
+    <li>Previously Head of Engineering at Superform + primary protocol architect — personally authored SuperVaults ($184M peak TVL) while coordinating 7 engineers</li>
     <li>4 production launches, 10 audit rounds, zero critical/high findings in final rounds</li>
     <li>7 years Solidity, Foundry-native</li>
 </ul>
