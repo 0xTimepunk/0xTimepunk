@@ -1,4 +1,4 @@
-<h1 align="center">João Martins</h1>
+<h1 align="center">João</h1>
 
 <p align="center">
     <strong>Previously Head of Engineering @ <a href="https://superform.xyz" target="_blank">Superform Labs</a></strong>
