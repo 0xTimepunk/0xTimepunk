@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    Protocol architect and engineering leader. I build DeFi infrastructure.
+    Indie Hacker, Protocol architect and engineering leader. I build DeFi infrastructure.
 </p>
 
 <hr />
@@ -16,7 +16,7 @@
         standard powering <strong>$1.6B+ TVL</strong> (Centrifuge, Superform)</li>
     <li>Head of Engineering + primary protocol architect — personally authored SuperVaults ($184M peak TVL) while coordinating 7 engineers</li>
     <li>Built the org while building the product: hiring processes, pod structures, AI workflows</li>
-    <li>4 production launches, 10 audit rounds, zero critical/high findings</li>
+    <li>4 production launches, 10 audit rounds, zero critical/high findings in final rounds</li>
     <li>7 years Solidity, Foundry-native</li>
 </ul>
 
