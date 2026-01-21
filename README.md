@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    Indie Hacker, Protocol architect and engineering leader. I build DeFi infrastructure.
+    Protocol architect and engineering leader. I build DeFi infrastructure.
 </p>
 
 <hr />
