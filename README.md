@@ -1,7 +1,7 @@
 <h1 align="center">João</h1>
 
 <p align="center">
-    <strong>Previously Head of Engineering @ <a href="https://superform.xyz" target="_blank">Superform Labs</a></strong>
+    <strong>Principal Smart Contracts Engineer @ <a href="https://aave.com" target="_blank">Aave Labs</a></strong>
 </p>
 
 <p align="center">
@@ -23,9 +23,9 @@
 
 <h3>DeFi Native</h3>
 <ul>
-    <li><strong>Standards:</strong> ERC-4626, ERC-5115, ERC-7540, ERC-7579, ERC-4337</li>
-    <li><strong>Cross-chain:</strong> LayerZero, Hyperlane, Wormhole, Across, Debridge</li>
-    <li><strong>Protocols:</strong> Morpho, Pendle, Aave, Euler, Fluid, Gearbox, Ethena</li>
+    <li><strong>Standards:</strong> ERC-4337, ERC-4626, ERC-5115, ERC-7540, ERC-7579</li>
+    <li><strong>Cross-chain:</strong> Across, Debridge, Hyperlane, LayerZero, Wormhole</li>
+    <li><strong>Protocols:</strong> Aave, Ethena, Euler, Fluid, Gearbox, Morpho, Pendle</li>
     <li><strong>Security:</strong> Audit liaison (yAudit, Spearbit/Cantina, Octane Security), Immunefi</li>
 </ul>
 
